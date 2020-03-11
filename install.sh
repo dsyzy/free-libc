@@ -20,4 +20,5 @@ else
 fi
 
 # set for bash
+chmod 777 clibc
 mv clibc /usr/local/bin/
