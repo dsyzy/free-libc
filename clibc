@@ -2,7 +2,7 @@
 
 FILE_NAME=$1
 LIBC_VERSION=$2
-WORKDIR=$(cd $(dirname $0); pwd)
+WORKDIR=$(pwd)
 
 EBIT=$(file $FILE_NAME |awk '{print$3}'|cut -c 1-2)
 if [ $EBIT -eq "32" ];then
