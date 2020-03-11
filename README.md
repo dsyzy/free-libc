@@ -47,3 +47,6 @@ How to add the version you want:
 2,If it's a 32-bit libc library:sudo mv 2.30-ubuntu-libc /usr/lib/freelibs/i386
 
 3,If it's a 64-bit libc library:sudo mv 2.30-ubuntu-libc /usr/lib/freelibs/amd64
+
+
+created by freedom
