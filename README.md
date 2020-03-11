@@ -36,7 +36,7 @@ Warning, please backup the source before use！！！！
 
 -2.29-0ubuntu2_i386
 
-How to install?
+怎么安装/How to install?
 =================================
 1.git clone https://github.com/dsyzy/free-libc.git
 
