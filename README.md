@@ -46,6 +46,8 @@ If there is a local libc file,then:
 =================================
 clibc PWN 2.27 2.27-libc.so
 
+clibc是指令 PWN是需要更改的程序 2.27是libc版本 2.27-libc.so是自自指定加载的libc文件
+
 
 How to add the version you want:
 =================================
