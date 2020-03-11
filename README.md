@@ -1,13 +1,13 @@
 # free-libc
 想要使程序使用指定的libc版本吗？那就来吧!
 当前支持libc版本有，
-2.24-3ubuntu1_amd64
-2.24-3ubuntu1_i386
-2.27-3ubuntu1_amd64
-2.27-3ubuntu1_i386
-2.28-0ubuntu1_amd64
-2.28-0ubuntu1_i386
-2.29-0ubuntu2_amd64
+-2.24-3ubuntu1_amd64
+-2.24-3ubuntu1_i386
+-2.27-3ubuntu1_amd64
+-2.27-3ubuntu1_i386
+-2.28-0ubuntu1_amd64
+-2.28-0ubuntu1_i386
+-2.29-0ubuntu2_amd64
 使用方法，克隆到本地后./install.sh
 随后可以使用clibc（change libc）使程序使用指定的libc版本
 
