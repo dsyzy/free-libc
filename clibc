@@ -6,9 +6,9 @@ WORKDIR=$(cd $(dirname $0); pwd)
 
 EBIT=$(file $FILE_NAME |awk '{print$3}'|cut -c 1-2)
 if [ $EBIT -eq "32" ];then
-    LIBC_DIR=/home/giantbranch/freelibs/i386
+    LIBC_DIR=/usr/lib/freelibs/i386
 elif [ $EBIT -eq "64" ];then
-    LIBC_DIR=/home/giantbranch/freelibs/amd64
+    LIBC_DIR=/usr/lib/freelibs/amd64
 else
     echo "It's not a elf file"
     exit
