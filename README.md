@@ -6,6 +6,7 @@ free-libc是一款用于在单一虚拟机下做不同环境下pwn题的项目�
 
 Free-libc is a project which is used to do PWN questions in different environments under a single virtual machine. You can do questions in ubuntu16.04 environment with the help of free-libc under other high version ubuntu environment, just need clibc instruction!!
 
+关于gree-libc使用流程，在如下网址：https://freedom.dsyzy.xyz/2020/03/12/gfree-libc%E4%BD%BF%E7%94%A8%EF%BC%8C%E4%BB%BB%E6%84%8F%E5%88%87%E6%8D%A2%E5%92%8C%E8%B0%83%E8%AF%95%E6%BA%90%E7%A0%81%E7%BA%A7libc/
 
 
 请注意，free-libc并不支持源代码.c级别的调试，如果想获取源代码.c级别调试能力，请参考我的gfree-libc项目。
